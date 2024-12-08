@@ -49,7 +49,7 @@ function gameEngine(){
         snakeArr = [{ x: 14, y: 15, x: 12, y: 15, x: 13, y: 14, x: 13, y: 16}];
         // if(snakeArr = [{x: 13, y: 15}]){
         // }
-        // musicSound.play();
+        musicSound.play();
         score = 0; 
     }
 
